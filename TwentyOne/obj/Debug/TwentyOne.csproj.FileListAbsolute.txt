@@ -1,0 +1,11 @@
+C:\Users\jimbe\source\repos\TwentyOne\bin\Debug\TwentyOne.exe.config
+C:\Users\jimbe\source\repos\TwentyOne\bin\Debug\TwentyOne.exe
+C:\Users\jimbe\source\repos\TwentyOne\bin\Debug\TwentyOne.pdb
+C:\Users\jimbe\source\repos\TwentyOne\obj\Debug\TwentyOne.csproj.AssemblyReference.cache
+C:\Users\jimbe\source\repos\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
+C:\Users\jimbe\source\repos\TwentyOne\obj\Debug\TwentyOne.exe
+C:\Users\jimbe\source\repos\TwentyOne\obj\Debug\TwentyOne.pdb
+C:\Users\jimbe\source\repos\TwentyOne\bin\Debug\Casino.dll
+C:\Users\jimbe\source\repos\TwentyOne\bin\Debug\Casino.pdb
+C:\Users\jimbe\source\repos\TwentyOne\obj\Debug\TwentyOne.csproj.CopyComplete
+C:\Users\jimbe\source\repos\TwentyOne\obj\Debug\TwentyOne.csproj.SuggestedBindingRedirects.cache
